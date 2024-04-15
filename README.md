@@ -4,6 +4,13 @@
 ## 运行条件
  这游戏用pygame写的，所以只需要你在python环境下安装pygame (pip install pygame)就可以直接跑了，没啥配置要求，纯4399小中之小游戏。
 
+ 执行这个命令即可开始游戏 （Windows上可以跑，Linux上兄弟还没试过XD）
+
+```
+python main.py
+```
+
+
 ## 游戏时注意条件
  看起来目前玩的时候要切**英文输入法**，不然这破pygame似乎不能监听键盘事件，有没有懂哥在issue里说一下怎么解决XD。
 
