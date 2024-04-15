@@ -14,7 +14,7 @@
 ### 战斗画面1（南无三，何等激烈的打斗！）
 <div align=center><img src="screen_shot/battle.png" width="70%" ></div>
 
-### 战斗画面1（南无三，何等激烈的打斗！）
+### 战斗画面2（相信各位玩家的动态视力已经察觉到这电光石火的战斗了罢）
 <div align=center><img src="screen_shot/battle2.png" width="70%" ></div>
 
 ### 战 斗 失 败，黑 暗 降 临
